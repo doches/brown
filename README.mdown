@@ -1,0 +1,3 @@
+# Brown Tools
+
+A couple of useful tools to work with [Percy Liang's implementation of the Brown algorithm](http://cs.stanford.edu/~pliang/software/).
